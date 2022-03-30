@@ -1,3 +1,8 @@
+# Getting Started with Electron Create React App
+
+`electron:dev` - Runs the electron app in the development mode.
+`electron:build` - Builds the electron app for production to the `dist` folder.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
